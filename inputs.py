@@ -20,4 +20,4 @@ print(input("How old are you?"))
 
 # Can you make the program ask a question now? Try here:
 
-print(input("How 
+print(input("How are you doing"))
