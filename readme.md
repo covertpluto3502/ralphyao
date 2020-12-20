@@ -1,6 +1,5 @@
 # TODO:
-### iteration.py
+### outputs.py
 
 # Next time:
-### outputs.py
 ### inputs.py
