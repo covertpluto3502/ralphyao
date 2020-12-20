@@ -15,7 +15,7 @@
 
 # Can you make this loop print "hi" for 10 times?
 
-for i in range(5):
+for i in range(10):
     print("hi")
     
 
@@ -25,5 +25,5 @@ for i in range(5):
 
 # Can you create some code to print "hello" 100 times? Write it here:
 
-
-
+for i in range(100):
+  print("hello")
