@@ -6,4 +6,4 @@
 print("Hello world")
 
 # Can you make it output something else? Write here:
-print("Something 
+print("Something else")
