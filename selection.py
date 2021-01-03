@@ -9,14 +9,14 @@
 # You should know a bit about operators...
 # Try making these print "Hello world", only changing the ?
 
-if ? == 8:
+if 8 == 8:
     print("Hello world")
     
-if ? >= 8:
+if 10 >= 8:
     print("Hello world")
     
-if 2 ? 8:
+if 2 < 8:
     print("Hello world")
 
-if ? != 3:
+if  != 3:
     print("Hello world")
