@@ -3,5 +3,4 @@
 
 # Here are things you can do by yourself(any help just tell me):
 ## TODO:
-#### Have a read of https://www.bbc.co.uk/bitesize/guides/zh66pbk/revision/3
-#### selection.py
+#### Open bubble_sort.py and do it
