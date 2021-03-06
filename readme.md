@@ -3,4 +3,5 @@
 
 # Here are things you can do by yourself(any help just tell me):
 ## TODO:
-#### Open bubble_sort.py and do it
+#### Do the password generator project
+#### Upload your previous completed projects to here 
